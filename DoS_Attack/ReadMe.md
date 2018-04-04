@@ -1,11 +1,10 @@
-======================================================================================
+
              Name: Milkias Bekana                                                 
              Id-no: ATR/7591/08                                                   
              Section: 02                                                          
              Instructor: Mr. Nathnael                                             
              3 April 2018                                                         
 ======================================================================================
-
 
 
 Denial of Service is simply a service or application that’s usually 
